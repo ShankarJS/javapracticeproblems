@@ -1,4 +1,4 @@
-package com.shankarsharmajip.cbd;
+package com.whiteboard;
 
 public class DummyClass {
 

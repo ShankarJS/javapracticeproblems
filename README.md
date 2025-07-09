@@ -1,24 +1,23 @@
 Structure:
 com -> 
 - kunalkushwaha
-- lcwd
-- shankarpractice
-- impproblems -> strings, numbers
+- lcwdlearncodewithdurgesh
+- shankarsharmajip -> numberproblems, stringproblems
 
 --------------------------------
 #Java programs for practice:
 
 String Programs:
-Java program to reverse a string? == done
-Write a Java Program to find whether a string is palindrome or not. == done
-Write a Java Program to find the duplicate characters in a string == done
-Program to remove the duplicate characters in a string == done
-How to remove Whitespaces from String == done
-How to remove leading and trailing whitespaces from a string? == done
-Remove all occurrences of a given character from input String?  == done
-Java program to get distinct characters and their count in a String? == done
-Java Program to check if a vowel is present in the string? == done
-How to prove String is immutable programatically? == Done
+ 1. Java program to reverse a string? == done
+ 2. Write a Java Program to find whether a string is palindrome or not. == done
+ 3. Write a Java Program to find the duplicate characters in a string == done
+ 4. Program to remove the duplicate characters in a string == done
+ 5. How to remove Whitespaces from String == done
+ 6. How to remove leading and trailing whitespaces from a string? == done
+ 7. Remove all occurrences of a given character from input String?  == done
+ 8. Java program to get distinct characters and their count in a String? == done
+ 9. Java Program to check if a vowel is present in the string? == done
+ 10. How to prove String is immutable programatically? == Done
 
 
 Number Programs:
@@ -52,11 +51,19 @@ How to create Enum in Java?
 How to use forEach() method?
 How do we create a Functional interface?
 Show an example of using lambda expressions in Java
-Show examples of overloading and overriding in Java
 Guess the Output of Code Snippets
 Find 5 mistakes in the following code snippet
+Show example of java stream
 
-Set b:   https://www.digitalocean.com/community/tutorials/java-programming-interview-questions#java-programming-interview-questions   
-
+Set b: https://www.digitalocean.com/community/tutorials/java-programming-interview-questions#java-programming-interview-questions   
 
 - questions to ask: https://businesstech.co.za/news/business/327605/8-questions-you-should-absolutely-ask-in-your-next-job-interview/
+
+#Kunal Kushwaha:
+
+Inheritance:
+If class Child extends Base then whatever properties are present in Base should be initialized while calling constructor of child class.
+eg, Human and Fish extends Species.
+Species has property as age.
+Then while instantiating human, age should be initialized, because age will have differnet value for different instances.
+

@@ -1,0 +1,15 @@
+ArrayList vs LinkedList difference:
+
+ArrayList has default size of 10 and it doubles once it is full
+LinkedList has default size of 0 and keeps increasing size as new elemts are added
+
+In arraylist, memory location is contagious and insertion order is maintained
+In Linkedlist, memory location is not contagious, but insertion order is maintained
+
+In ArrayList, internally uses dynamic arraylist and after intro of generics, it supports all types of objects
+It internally uses double linkedlist and supports all types of objects
+
+Manipulation is difficult in AL as shifting happens, but insertion and reading is easy
+Manipulation is easy in LL
+
+
