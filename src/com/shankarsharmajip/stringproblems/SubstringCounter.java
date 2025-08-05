@@ -1,8 +1,5 @@
 package com.shankarsharmajip.stringproblems;
 
-import java.util.HashMap;
-import java.util.Map;
-
 public class SubstringCounter {
 
 	public static void main(String[] args) {

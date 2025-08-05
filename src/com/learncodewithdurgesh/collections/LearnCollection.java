@@ -5,8 +5,6 @@ import java.util.HashSet;
 import java.util.TreeSet;
 import java.util.Vector;
 
-import javax.swing.event.TreeSelectionEvent;
-
 public class LearnCollection {
 	public static void main(String[] args) {
 		

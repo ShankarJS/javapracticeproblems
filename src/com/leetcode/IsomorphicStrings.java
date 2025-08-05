@@ -1,8 +1,5 @@
 package com.leetcode;
 
-import java.util.LinkedHashMap;
-import java.util.stream.Collectors;
-
 public class IsomorphicStrings {
 
 	public static void main(String[] args) {

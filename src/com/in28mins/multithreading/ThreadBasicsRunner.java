@@ -1,7 +1,5 @@
 package com.in28mins.multithreading;
 
-import java.util.Iterator;
-
 class Task1 extends Thread{
 	public void run() {		//SIGNATURE
 		System.out.print("\nTask 1 started");
